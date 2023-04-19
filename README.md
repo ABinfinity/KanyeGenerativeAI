@@ -18,6 +18,12 @@ To use the notebook, simply open it in Jupyter Notebook or JupyterLab and follow
 
 The notebook will then use generative AI to analyze the reference Kanye West audio file and create a voice model that can be used to replace the voice in your input vocal audio file. The output will be a new audio file with the original instrumentation and background music, but with Kanye West's voice singing the vocals.
 
+## Support Links
+
+[Youtube Tutorial | I made a KANYE SONG with AI | Roberto Nickson](https://www.youtube.com/watch?v=2sMpIXQcSCA)
+
+[Kanye West Voice Model](https://mega.nz/file/P7hWwCoQ#s0OICnRbTpcUjUIS7iQPIlYwBVelZXzm_-1LLPSUd2Y)
+
 ## Caveats
 It's important to note that the generative AI used in this notebook is not perfect, and the resulting output may not sound exactly like Kanye West's voice. Additionally, the output may contain artifacts or errors due to limitations in the technology and the training data used to create the models.
 
